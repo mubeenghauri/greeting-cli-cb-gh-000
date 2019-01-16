@@ -1,6 +1,6 @@
 # code the #greeting method here!
 
-def greet(name)
+def greeting(name)
 
   puts "HI #{name}, How are you?"
 end
