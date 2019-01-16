@@ -6,4 +6,4 @@ def greet(name)
 end
 
 
-greet("mubeen")     
+#greet("mubeen")
